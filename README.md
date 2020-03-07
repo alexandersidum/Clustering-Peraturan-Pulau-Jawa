@@ -1,2 +1,0 @@
-# learn
-my learning repo
