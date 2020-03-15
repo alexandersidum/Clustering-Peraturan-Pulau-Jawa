@@ -7,7 +7,6 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import re
 import string
-import random
 
 random_state = 0
 
